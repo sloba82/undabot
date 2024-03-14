@@ -11,7 +11,7 @@ Please run next commands in projects root directory to get you started:
 - php bin/console doctrine:migrations:migrate
 
 ### Project route: 
-```sh
+
 - project has one GET route: /score?term=test it accepts one param named "term=" with max 255 characters, and maximum of 10 requests per minute
-```
+
 
