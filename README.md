@@ -9,6 +9,7 @@ Please run next commands in projects root directory to get you started:
 - run composer install
 - php bin/console doctrine:database:create
 - php bin/console doctrine:migrations:migrate
+- php bin/phpunit for running the test
 
 ### Project route: 
 
